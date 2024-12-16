@@ -150,7 +150,7 @@ DFIR Jedi
 
 ## Version History
 
-- 1.0.0 (2024-03-15)
+- 1.0.0 (2024-12-16)
     - Initial release
     - Basic parsing functionality
     - CSV and JSON output support
